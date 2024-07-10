@@ -1,0 +1,12 @@
+.movie-text{
+    color: white;
+    font-size: calc(1.1rem + .6vw);
+}
+
+p{
+    color: white;
+}
+.infocss{
+    background-color: black;
+    color: white;
+  }
